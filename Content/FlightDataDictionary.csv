@@ -1,0 +1,28 @@
+Field name,Data Type,Field Size,Description,Example
+RespondentID,Int,10,ID for all respondents to survey,3434275578
+How often do you travel by plane?,String,50,,Once a year or less
+Do you ever recline your seat when you fly?,String,50,,About half the time
+How tall are you?,String,50,,"5'7"""
+Do you have any children under 18?,String,50,,No
+"In a row of three seats, who should get to use the two arm rests?",String,50,,Whoever puts their arm on the armrest first
+"In a row of two seats, who should get to use the middle arm rest?",String,50,,The arm rests should be shared
+Who should have control over the window shade?,String,50,,Everyone in the row should have some say
+Is itrude to move to an unsold seat on a plane?,String,50,,"No, not rude at all"
+"Generally speaking, is it rude to say more than a few words tothe stranger sitting next to you on a plane?",String,50,,"No, not rude at all"
+"On a 6 hour flight from NYC to LA, how many times is it acceptable to get up if you're not in an aisle seat?",String,50,,Twice
+"Under normal circumstances, does a person who reclines their seat during a flight have any obligation to the person sitting behind them?",String,50,,"Yes, they should not recline their chair if the person behind them asks them not to"
+Is itrude to recline your seat on a plane?,String,50,,"Yes, somewhat rude"
+"Given the opporutnity, would you eliminate the possibility of reclining seats on a plane entirely?",String,50,,Yes
+Is it rude to ask someone to switch seats with you in order to be closer to friends?,String,50,,"Yes, somewhat rude"
+Is itrude to ask someone to switch seats with you in order to be closer to family?,String,50,,"Yes, very rude"
+Is it rude to wake a passenger up if you are trying to go to the bathroom?,String,50,,"Yes, somewhat rude"
+Is itrude to wake a passenger up if you are trying to walk around?,String,50,,"Yes, somewhat rude"
+"In general, is itrude to bring a baby on a plane?",String,50,,"Yes, somewhat rude"
+"In general, is it rude to knowingly bring unruly children on a plane?",String,50,,"Yes, very rude"
+Have you ever used personal electronics during take off or landing in violation of a flight attendant's direction?,String,50,,No
+Have you ever smoked a cigarette in an airplane bathroom when it was against the rules?,String,50,,No
+Gender,String,5,Respondents Gender,Male
+Age,String,10,Respondents Age,30-44
+Household Income,String,25,Respondents Income,"100,000-149,000"
+Education,String,15,Respondents Education,Bachelor Degree
+Location (Census Region),String,25,Respondents Location,Pacific
